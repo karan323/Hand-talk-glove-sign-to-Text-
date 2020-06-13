@@ -1,0 +1,7 @@
+>>(DATA FILE).CSV contain the data as per sign language movement or signs.A.csv stands for A sign from signlanguage and other are accroding to their signs. 
+
+>>A B C D are the .csv file which contain the sensor data for ML.here is only 4 file from whole data set. 
+
+>>zCSV.py(python code) file is for getting data from sensor to csv formate file. this code contain the ADC conversion code and create .CSV file from sensor data for genrate DATAset to apply in ml code.
+
+>>data is combine file for Each sub file 
